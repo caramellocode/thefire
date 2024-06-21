@@ -1,0 +1,24 @@
+{
+  "projects": {
+    "default": "finalfire-8f3c0",
+    "test": "finalfire-8f3c0"
+  },
+  "targets": {
+    "ring-of-fire-10be4": {
+      "hosting": {
+        "ringoffire": [
+          "ring-of-fire-10be4"
+        ]
+      }
+    },
+    "finalfire-8f3c0": {
+      "hosting": {
+        "ringoffire": [
+          "finalfire-8f3c0"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
